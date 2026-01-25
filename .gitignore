@@ -33,6 +33,4 @@ vscode/
 *.tmp
 *.db
 #################################
-# Unreal Engine Content Exclusions
-#################################
-/Content/StarterContent/
+
