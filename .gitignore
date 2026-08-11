@@ -34,7 +34,7 @@ vscode/
 *.db
 #################################
 #Temp Files#
-*-NomNomNom
+*-NomNomNom*
 *.uasset-*
 *.umap-*
 
